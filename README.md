@@ -1,7 +1,7 @@
 # Amazon Vine Analysis
 
 ## Overview 
-The purpose of this analysis was to analyze Amazon reviews written by members of the paid Amazon Vine program. I chose a dataset about music, and used PySpark to perform the ETL process, connected to an AWS RDS instance, and loaded the transformed data into pgAdmin. Finally, I used PySpark to determine if there is any bias toward favorable reviews from Vine members in the dataset I chose.
+The purpose of this analysis was to analyze Amazon reviews written by members of the paid Amazon Vine program. I chose a dataset about music, and used PySpark to perform the ETL process, connected to an AWS RDS instance, and loaded the transformed data into pgAdmin. Finally, I used PySpark in Google Colab to determine if there is any bias toward favorable reviews from Vine members in the dataset I chose.
 
 ---
 
